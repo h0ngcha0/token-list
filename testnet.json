@@ -1,0 +1,159 @@
+{
+  "tokens": [
+    {
+      "id": "7e492022c10581c2efb5047b8d65751964edbd7b5bed729438a7f379095ea203",
+      "name": "Alephium",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
+    },
+    {
+      "id": "360004633854478d1ad1d236fde4b784442d9b06f37c9a1f24a98095739f8303",
+      "name": "AYIN",
+      "symbol": "AYIN",
+      "decimals": 18,
+      "description": "$AYIN is a DEX token, that incentivises users through fees and other mechanisms to participate in trading on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AYIN.png"
+    },
+    {
+      "id": "15c4e78bc8b414fe5bc1ee84a250f1fa5b9615ac9ec3eea7d6375761ff59fd03",
+      "name": "Wrapped Ether (AlphBridge)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "description": "ETH Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
+    },
+    {
+      "id": "13c49f613390e878990bf7ba159f45742c91ef92cc7f8cb941dab8d2b0ac3403",
+      "name": "Wrapped BTC (AlphBridge)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "description": "wBTC Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBTC.png"
+    },
+    {
+      "id": "1b14c35ca6f3036b686fde224ce0245ecb34cd9da66ec5e5cf6dae985b9ec203",
+      "name": "Tether USD (Ethereum via AlphBridge)",
+      "nameOnChain": "Tether USD (AlphBridge)",
+      "symbol": "USDTeth",
+      "symbolOnChain": "USDT",
+      "decimals": 6,
+      "description": "USDT Bridged to Alephium from Ethereum via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth-unchained.png"
+    },
+    {
+      "id": "7cbb53fe9e3f3ee093d5ede3c9d2c4834ffcb92fc1c1208c54508763e18f1703",
+      "name": "Tether USD (BSC via AlphBridge)",
+      "nameOnChain": "Tether USD (AlphBridge)",
+      "symbol": "USDTbsc",
+      "symbolOnChain": "USDT",
+      "decimals": 18,
+      "description": "USDT Bridged to Alephium from BSC via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc-unchained.png"
+    },
+    {
+      "id": "4ad8733190b70aaf88db9dbeb6f48819253187b1e190716e728a43002b375503",
+      "name": "USD Coin (Ethereum via AlphBridge)",
+      "nameOnChain": "USD Coin (AlphBridge)",
+      "symbol": "USDCeth",
+      "symbolOnChain": "USDC",
+      "decimals": 6,
+      "description": "USDC Bridged to Alephium from Ethereum via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth-unchained.png"
+    },
+    {
+      "id": "7a8f6702c41b9ff2953ef1529f6786d042149b0c28c723a85f3fa790639aeb03",
+      "name": "USD Coin (BSC via AlphBridge)",
+      "nameOnChain": "USD Coin (AlphBridge)",
+      "symbol": "USDCbsc",
+      "symbolOnChain": "USDC",
+      "decimals": 18,
+      "description": "USDC Bridged to Alephium from BSC via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc-unchained.png"
+    },
+    {
+      "id": "9803d7ebf6194e9dabd3bae88472e5bcffcea24f088423a9e09a5d6e532f5803",
+      "name": "Dai Stablecoin (AlphBridge)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "description": "DAI Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DAI.png"
+    },
+    {
+      "id": "4f5f59b4d6db252257e8c8d5e63144f98ccbe9640a85aa1e3743adeda4b6e303",
+      "name": "AlphPad",
+      "symbol": "APAD",
+      "decimals": 18,
+      "description": "AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
+    },
+    {
+      "id": "5d3156a385e1936146b8fd418f16ef19a1e022337e04495e9dfa129e7e112f03",
+      "name": "GIGACHENG",
+      "symbol": "CHENG",
+      "decimals": 6,
+      "description": "The $CHENG meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
+    },
+    {
+      "id": "70759dff271b89f48b435ab207c374173a59b86ff0ef9027db21c71ff497f303",
+      "name": "LEMUR",
+      "symbol": "LEMUR",
+      "decimals": 3,
+      "description": "The unbeatable LEMUR joins alephium, check our X https://x.com/LEMURalph and watch our veteran devs cook something never before seen on alephium. Partly memes, mostly utility.. Too Daa Moon!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
+    },
+    {
+      "id": "d9ff8fdb6143650506fc640af7e2957e933130d40dd68d56cceb3124307aa803",
+      "name": "Wrapped OG Alf",
+      "symbol": "WALF",
+      "decimals": 18,
+      "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
+    },
+    {
+      "id": "b9577cd2107a38c75c3a3a0845ea92de569e62f86db8d90a0a1c7d571ba16603",
+      "name": "ALPHAGA",
+      "symbol": "ALPHAGA",
+      "decimals": 18,
+      "description": "Token of the Alphaga Marketplace ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHAGA.png"
+    },
+    {
+      "id": "44f5ef5540433c5ebacef38836f83038207d6861677627030952dc1802663b03",
+      "name": "TEST",
+      "symbol": "TEST",
+      "decimals": 18,
+      "description": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.png"
+    },
+    {
+      "id": "5ba557a195283fe0b858a51bb1e832ec2134e9bb657a076da9d0c1d081397003",
+      "name": "ANS (alephium.domains)",
+      "nameOnChain": "ANS",
+      "symbol": "ANSd",
+      "symbolOnChain": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service (alephium.domains).",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSd.png"
+    },
+    {
+      "id": "1400f54c57dc0e078372449a4a12b92658685eba9c3fd32fbbb858cc82f2bf03",
+      "name": "ABD",
+      "nameOnChain": "ABD Token",
+      "symbol": "ABD",
+      "decimals": 9,
+      "description": "AlphBanX stablecoin token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
+    }
+  ]
+}
