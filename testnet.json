@@ -155,6 +155,15 @@
       "decimals": 9,
       "description": "AlphBanX stablecoin token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
+    },
+    {
+      "id": "fdf5067af438da490b166c913768a646fd34c3891957b350cbf87820ae77ad00",
+      "name": "xALPH",
+      "nameOnChain": "Staked ALPH",
+      "symbol": "XALPH",
+      "decimals": 18,
+      "description": "Staked ALPH",
+      "logoURI": "https://raw.githubusercontent.com/h0ngcha0/token-list/master/logos/xALPH.png"
     }
   ]
 }
