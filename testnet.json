@@ -164,6 +164,14 @@
       "decimals": 18,
       "description": "Staked ALPH",
       "logoURI": "https://raw.githubusercontent.com/h0ngcha0/token-list/master/logos/xALPH.png"
+    },
+    {
+      "id": "20f79f2eaa0f250f5377e8ed1b630a183051d88db8955b42bfe3bf130c659800",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Decentralized Open Hub - Test",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     }
   ]
 }
