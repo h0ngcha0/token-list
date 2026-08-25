@@ -10,7 +10,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
-      "id": "02ffd851efbec556ff41983c85e26156b92a39398231cd0bdf08e476642bbd00",
+      "id": "0104f08e290307089e898c2f015cd84e454deb3cecdeda036e6a7ccfa7fd4500",
       "name": "AYIN",
       "symbol": "AYIN",
       "decimals": 18,
@@ -18,7 +18,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AYIN.png"
     },
     {
-      "id": "e9f8d3e8281c296eedf37e8e2b5779903eb998fda0498a5a3d85b4ca91599600",
+      "id": "6191b4533a25027a9393be9cbe3922fb2a761c8aa1a9f51d400d2850d582f900",
       "name": "Wrapped Ether (AlphBridge)",
       "symbol": "WETH",
       "decimals": 18,
@@ -26,7 +26,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
     },
     {
-      "id": "eeab1632cb0f147f0e70737a74cb31cedf668213e2a752b9b49efc96b114f100",
+      "id": "e543546442d5c16fdb5bf2dafdfd6d33f7e17a829a3eb26d392d082e1911c600",
       "name": "Wrapped BTC (AlphBridge)",
       "symbol": "WBTC",
       "decimals": 8,
@@ -34,7 +34,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBTC.png"
     },
     {
-      "id": "9851d481839d7d71f9eca2f0632b297e1494b5d561da7232a75217fac5fdf000",
+      "id": "542d26a6eae73124279891749235b86757795ec3aa335886f9b01cef6d25c600",
       "name": "Tether USD (Ethereum via AlphBridge)",
       "nameOnChain": "Tether USD (AlphBridge)",
       "symbol": "USDTeth",
@@ -46,7 +46,7 @@
       "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth-unchained.png"
     },
     {
-      "id": "1413f5d511071f0621a680fdae6af101f6fc79e2f317cd493509e570fb726f00",
+      "id": "a2c45135a4820500355c5dcce79b27a4cb26d9678e8c29e0ad32e9007d2c8300",
       "name": "Tether USD (BSC via AlphBridge)",
       "nameOnChain": "Tether USD (AlphBridge)",
       "symbol": "USDTbsc",
@@ -58,7 +58,7 @@
       "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc-unchained.png"
     },
     {
-      "id": "1ba891c96f7477ad8ca7083e1cfdbe06f78cf6aa15017eaabd9d1269850d2900",
+      "id": "8bfba95845d35e8d4649616973b70554c3ff76c796c157ec1822095ddd060600",
       "name": "USD Coin (Ethereum via AlphBridge)",
       "nameOnChain": "USD Coin (AlphBridge)",
       "symbol": "USDCeth",
@@ -70,7 +70,7 @@
       "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth-unchained.png"
     },
     {
-      "id": "ed3a48a1d29f2eeedd935df017a8eeaf10b640a4648b58b97d1ac0e59f77e500",
+      "id": "9754408145a430fade609f63025c8115188bdee63ecc9855e72b655c825f3100",
       "name": "USD Coin (BSC via AlphBridge)",
       "nameOnChain": "USD Coin (AlphBridge)",
       "symbol": "USDCbsc",
@@ -82,7 +82,7 @@
       "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc-unchained.png"
     },
     {
-      "id": "6650ce95d38d567c859962f78ee139fbda92cfe1c8cbbf5d04acd889a1ae3700",
+      "id": "53a1f1f0e109d56b4986202e5d71adf0a93ba19ac142d4039d2e7cad28c3bd00",
       "name": "Dai Stablecoin (AlphBridge)",
       "symbol": "DAI",
       "decimals": 18,
@@ -90,7 +90,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DAI.png"
     },
     {
-      "id": "eec828f9b501b3089873a5089e0ed3ab07f0a4ee5f0ffa392f49c5498847fe00",
+      "id": "40cfaebc57cfdbbf09eb493e8f9e6c6299dbfcac871423f1bf1bf59194948200",
       "name": "AlphPad",
       "symbol": "APAD",
       "decimals": 18,
@@ -98,7 +98,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
     },
     {
-      "id": "3641afbc0f5bbbd104895be6973f945488c00724e80b00173f69985961ff7f00",
+      "id": "665fc60912a0a01638571bdc228d934b1e8256d2d87682642b00e14a9bf98500",
       "name": "GIGACHENG",
       "symbol": "CHENG",
       "decimals": 6,
@@ -106,7 +106,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
     },
     {
-      "id": "53cdec311dc2ea21a0cfa4d176cae9f3e3201517ed9a8a9027c44283e3bd4200",
+      "id": "90b240545b344a19e3f976ad6136a035eb513fec9e4a581e6e58a47314275b00",
       "name": "LEMUR",
       "symbol": "LEMUR",
       "decimals": 3,
@@ -114,7 +114,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
     },
     {
-      "id": "5aea1f5080f197939b2945ec3d81671b090830d5c1cc7d96f51f5f2ea61d7c00",
+      "id": "7af261c30ac4c72a3a133c53912216d1f2f25e00cce58774b8b0b281cd981d00",
       "name": "Wrapped OG Alf",
       "symbol": "WALF",
       "decimals": 18,
@@ -122,7 +122,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
     },
     {
-      "id": "d1d66e077999b651576abb7cc687b6841513dd2f6f53304508917c92faf91500",
+      "id": "79198ab85e3497eb8c4c33c866d2f50a8e9f3af7a93b05b061f947fff7d56300",
       "name": "ALPHAGA",
       "symbol": "ALPHAGA",
       "decimals": 18,
@@ -130,7 +130,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHAGA.png"
     },
     {
-      "id": "0468b0edb82b50eb269e4d66899fc18863686ac5878307531b11037c19137e00",
+      "id": "87abd6d48337b13ccb2049e7be493efd7c33cbc5d4d279aca4af77f0d0088e00",
       "name": "TEST",
       "symbol": "TEST",
       "decimals": 18,
@@ -138,7 +138,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.png"
     },
     {
-      "id": "08fc77242d2858941fc5949833e50496a5725ac706cb59ff50587c9c72268d00",
+      "id": "65cd7ba22bdca071f2fdc104f65ac5a0b592a11c62e595fc8d4cd89748b6e500",
       "name": "ANS (alephium.domains)",
       "nameOnChain": "ANS",
       "symbol": "ANSd",
@@ -148,7 +148,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSd.png"
     },
     {
-      "id": "3de116b59abdcf65c6e8295d69e06a08e364139bc6790d1915bd2e668ce09c00",
+      "id": "c44d8036d6ab847dd9d8b8a7f73856e6e40e8ffc805b7d1172aa1b9f09564e00",
       "name": "ABD",
       "nameOnChain": "ABD Token",
       "symbol": "ABD",
@@ -157,7 +157,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
     },
     {
-      "id": "f05f33ce0094780719adf510acadcef50c59629102386f3e6218aaf8a601fa00",
+      "id": "87c04bf57a880d4366a06e72b85972dfd050eff54ad12c52cdd906f9c68c1500",
       "name": "xALPH",
       "nameOnChain": "Staked ALPH",
       "symbol": "xALPH",
@@ -166,7 +166,7 @@
       "logoURI": "https://raw.githubusercontent.com/h0ngcha0/token-list/master/logos/xALPH.png"
     },
     {
-      "id": "d1bfedf61d1528d67ba7b3cd5a9584507c83eb4bb0add7a11cb9d32d68803a00",
+      "id": "2c48284d35070404a07fa424e2cf11fb59d3b1430f28fdb1fd73805172362e00",
       "name": "DOH",
       "symbol": "DOH",
       "decimals": 18,
