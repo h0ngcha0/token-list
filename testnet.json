@@ -172,6 +172,14 @@
       "decimals": 18,
       "description": "Decentralized Open Hub - Test",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
+    {
+      "id": "72ff515813051a7d9dde6c63efb8ad4bc623a3577c5ecd6fc4e61ba24e87de00",
+      "name": "BAAL",
+      "symbol": "BAAL",
+      "decimals": 18,
+      "description": "BAAL test token for Alephium Underground on Testnet.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BAAL.png"
     }
   ]
 }
